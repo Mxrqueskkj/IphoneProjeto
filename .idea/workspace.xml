@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IphoneProjeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/iphone/SistemaIphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/navegador/Navegador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/reprodutorMusical/ReprodutorMusical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/telefone/AparelhoTelefonico.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2jNuEH6yh5EPgTDMooGOgn3XNCn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Iphone.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Micael/IdeaProjects/IphoneProjeto/IphoneProjeto/src",
+    "onboarding.tips.debug.path": "C:/Users/Micael/IdeaProjects/IphoneProjeto/IphoneProjeto/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Micael\IdeaProjects\IphoneProjeto\IphoneProjeto\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="" />
+      <created>1721239745911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721239745911</updated>
+    </task>
+    <servers />
+  </component>
+</project>
