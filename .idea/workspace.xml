@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IphoneProjeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/iphone/SistemaIphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/navegador/Navegador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/reprodutorMusical/ReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone/apps/telefone/AparelhoTelefonico.java" afterDir="false" />
-    </list>
+    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="commit teste2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +29,8 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Micael/IdeaProjects/IphoneProjeto/IphoneProjeto/src",
-    "onboarding.tips.debug.path": "C:/Users/Micael/IdeaProjects/IphoneProjeto/IphoneProjeto/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Micael/IdeaProjects/IphoneProjeto/IphoneProjeto/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -58,6 +47,28 @@
       <option name="presentableId" value="Default" />
       <updated>1721239745911</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit teste">
+      <option name="closed" value="true" />
+      <created>1721240940604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721240940604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit teste2">
+      <option name="closed" value="true" />
+      <created>1721241054835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721241054835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit teste" />
+    <MESSAGE value="commit teste2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit teste2" />
   </component>
 </project>
