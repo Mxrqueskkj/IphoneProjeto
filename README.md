@@ -1,9 +1,6 @@
-
-flowchart TD
-
-    E[SistemaIphone]
-    A[Iphone]
-    A --> E
+```mermaid
+   flowchart TD
+    A[Iphone] --> E[SistemaIphone]
     E --> B(Reprodutor musical)
     E --> C(Aparelho Telefonico)
     E --> D(Navegador na Internet) 
@@ -19,4 +16,6 @@ flowchart TD
     D--> newLine2[["+exibirPagina(String url)
     +adicionarNovaAba()
     +atualizarPagina"]]
+    
+   ```
   

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="commit teste2" />
+    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="commit teste6">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,12 +65,48 @@
       <option name="project" value="LOCAL" />
       <updated>1721241054835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit teste3">
+      <option name="closed" value="true" />
+      <created>1721241090759</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721241090759</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit teste4">
+      <option name="closed" value="true" />
+      <created>1721241198994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721241198994</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit teste5">
+      <option name="closed" value="true" />
+      <created>1721241224828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721241224828</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit teste6">
+      <option name="closed" value="true" />
+      <created>1721241279792</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721241279792</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit teste" />
     <MESSAGE value="commit teste2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit teste2" />
+    <MESSAGE value="commit teste3" />
+    <MESSAGE value="commit teste4" />
+    <MESSAGE value="commit teste5" />
+    <MESSAGE value="commit teste6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit teste6" />
   </component>
 </project>
