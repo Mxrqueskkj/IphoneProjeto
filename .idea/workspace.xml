@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="commit teste6">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="3dc3f39b-2fad-4a71-b416-fc4059f2d27a" name="Changes" comment="commit teste7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -97,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721241279792</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit teste7">
+      <option name="closed" value="true" />
+      <created>1721241531040</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721241531040</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +116,7 @@
     <MESSAGE value="commit teste4" />
     <MESSAGE value="commit teste5" />
     <MESSAGE value="commit teste6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit teste6" />
+    <MESSAGE value="commit teste7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit teste7" />
   </component>
 </project>
